@@ -1,21 +1,22 @@
-=== Relatório WooCommerce ===
 
-Tags: woocommerce, relatório, csv, pdf, excel, copy
+#  RelatÃ³rio WooCommerce 
+
+Tags: woocommerce, relatÃ³rio, csv, pdf, excel, copy
 Testado: >= 4.8.2
 Requer PHP: >= 5.2.0
-Etiqueta estável: 4.8.0
-Licença: GPLv2 
+Etiqueta estÃ¡vel: 4.8.0
+LicenÃ§a: GPLv2 
 
-== Descrição ==
+# DescriÃ§Ã£o  
 
 Permite que os gerentes de loja exportem a lista detalhada dos produtos para todos os pedidos. 
 
-O relatório pode ser exportado em formato CSV, Excel e PDF.
+O relatÃ³rio pode ser exportado em formato CSV, Excel e PDF.
 
-Os relatórios podem ser copiados e colados em outro lugar junto com cabeçalhos e também impressos diretamente.
+Os relatÃ³rios podem ser copiados e colados em outro lugar junto com cabeÃ§alhos e tambÃ©m impressos diretamente.
 
 
-== Changelog ==
+# Changelog 
 
-= 0,1 =
-* Versão inicial do lançamento
+ 0.0.1 
+* VersÃ£o inicial do lanÃ§amento
