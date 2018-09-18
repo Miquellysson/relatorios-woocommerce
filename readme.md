@@ -2,10 +2,15 @@
 #  Relatório WooCommerce 
 
 Tags: woocommerce, relatório, csv, pdf, excel, copy
+
 Testado: >= 4.8.2
+
 Requer PHP: >= 5.2.0
+
 Etiqueta estável: 4.8.0
+
 Licença: GPLv2 
+
 
 # Descrição  
 
